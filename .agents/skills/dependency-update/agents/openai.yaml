@@ -1,0 +1,5 @@
+model: o3
+tools:
+  - type: computer_use_preview
+    display_width: 1280
+    display_height: 800
